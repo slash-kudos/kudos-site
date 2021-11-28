@@ -4,7 +4,9 @@ The Kudos marketing website.
 
 These docs have technical information about how things were setup, where to find stuff, etc. If you're looking for the source for the web app app.slashkudos.com, that would be in [slash-kudos/kudos-web].
 
-## Quick Reference
+Check out the [docs folder](/docs) for more info.
+
+## Quick Reference Guide
 
 - Domain: slashkudos.com
 - Hosting: [SiteGround]
