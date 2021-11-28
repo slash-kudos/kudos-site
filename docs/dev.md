@@ -6,6 +6,7 @@ These docs have technical information about how to do developer stuff or how som
 
 - [Manage slashkudos.com on Namecheap]
 - [SiteGround Site Tools for slashkudos.com]
+- [slashkudos.com Wordpress Admin]
 - [slashkudos.com Hosted Zone in AWS Route 53]
 
 ## Setup SiteGround
@@ -46,3 +47,4 @@ I already have a google workspace. So I can just add the new domain as a trusted
 [Manage slashkudos.com on Namecheap]: https://ap.www.namecheap.com/domains/domaincontrolpanel/slashkudos.com/domain
 [SiteGround Site Tools for slashkudos.com]: https://tools.siteground.com/dashboard?siteId=S3czeFlYNFBJdz09
 [slashkudos.com Hosted Zone in AWS Route 53]: https://console.aws.amazon.com/route53/v2/hostedzones#ListRecordSets/Z0711392P306FZDNV1M8
+[slashkudos.com Wordpress Admin]: https://slashkudos.com/wp-admin
