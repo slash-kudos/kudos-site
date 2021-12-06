@@ -8,7 +8,7 @@ Check out the [docs folder](/docs) for more info.
 
 ## Quick Reference Guide
 
-- Domain: slashkudos.com
+- Domain: [slashkudos.com](slashkudos.com)
 - Hosting: [SiteGround]
 - Domain Name Registrar: [Namecheap]
 - Framework: Wordpress
