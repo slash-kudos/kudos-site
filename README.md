@@ -1,8 +1,8 @@
-# Slash Kudos Website
+slashkudos# Slash Kudos Website
 
 The Kudos marketing website.
 
-These docs have technical information about how things were setup, where to find stuff, etc. If you're looking for the source for the web app app.slashkudos.com, that would be in [slash-kudos/kudos-web].
+These docs have technical information about how things were setup, where to find stuff, etc. If you're looking for the source for the web app app.slashkudos.com, that would be in [slashkudos/kudos-web].
 
 Check out the [docs folder](/docs) for more info.
 
@@ -25,9 +25,9 @@ I use SiteGround because I already have an account and it is pretty cheap. You c
 ## Web Site vs Web App
 
 - Site includes the landing page with features explained, prices (not applicable here), contact info, blogs, newsletter sign-ups, etc.
-- App is the actual app and can be behind a login or a paywall. In this case this is where you would be able to see the kudos feed and search and give kudos. That code can be found in [slash-kudos/kudos-web]
+- App is the actual app and can be behind a login or a paywall. In this case this is where you would be able to see the kudos feed and search and give kudos. That code can be found in [slashkudos/kudos-web]
 
 <!-- Links -->
-[slash-kudos/kudos-web]: https://github.com/slash-kudos/kudos-web
+[slashkudos/kudos-web]: https://github.com/slashkudos/kudos-web
 [SiteGround]: https://my.siteground.com/websites/list/S3duelpYZ0pJUT09
 [Namecheap]: https://www.namecheap.com/
