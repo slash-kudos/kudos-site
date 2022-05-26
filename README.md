@@ -1,6 +1,4 @@
-# slashkudos Website
-
-The Kudos marketing website.
+# slashkudos marketing site docs
 
 These docs have technical information about how things were setup, where to find stuff, etc. If you're looking for the source for the web app app.slashkudos.com, that would be in [slashkudos/kudos-web].
 
