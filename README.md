@@ -1,4 +1,4 @@
-slashkudos# Slash Kudos Website
+# slashkudos Website
 
 The Kudos marketing website.
 
