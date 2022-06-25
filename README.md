@@ -25,6 +25,10 @@ I use SiteGround because I already have an account and it is pretty cheap. You c
 - Site includes the landing page with features explained, prices (not applicable here), contact info, blogs, newsletter sign-ups, etc.
 - App is the actual app and can be behind a login or a paywall. In this case this is where you would be able to see the kudos feed and search and give kudos. That code can be found in [slashkudos/kudos-web]
 
+## Technical Docs
+
+Read more technical docs [here](docs/dev.md).
+
 <!-- Links -->
 [slashkudos/kudos-web]: https://github.com/slashkudos/kudos-web
 [SiteGround]: https://my.siteground.com/websites/list/S3duelpYZ0pJUT09
